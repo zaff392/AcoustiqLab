@@ -1,0 +1,6 @@
+{
+  "name": "AcoustiqLab",
+  "description": "Analyse forensique audio, détection d'artefacts, post-traitement chirurgical faible latence, export ProRes/H.265 et plugin natif DeepSeek Harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
